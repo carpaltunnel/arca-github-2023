@@ -4,7 +4,7 @@
   "description": "Git instruction",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/carpaltunnel/arca-github-2023/issues"
   },
-  "homepage": "https://github.com/carpaltunnel/arca-github-2023#readme"
+  "homepage": "https://github.com/carpaltunnel/arca-github-2023#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
