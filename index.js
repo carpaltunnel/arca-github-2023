@@ -1,6 +1,6 @@
 const seconds = new Date().getSeconds();
 
-console.log('Starting up...');
+console.log(`${new Date().toISOString()} Starting up...`);
 console.log(`Current second is : ${seconds}`)
 
 if (seconds % 3 === 0) {
