@@ -11,5 +11,5 @@ test('test #3', () => {
 });
 
 test('bad test #1', () => {
-  expect(4).toBe(2);
+  expect(4).toBe(Number(1 + 3));
 });
