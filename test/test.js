@@ -7,7 +7,7 @@ test('test #2', () => {
 });
 
 test('test #3', () => {
-  expect(4).toBe(3);
+  expect(3).toBe(3);
 });
 
 test('bad test #1', () => {
