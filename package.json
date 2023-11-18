@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/carpaltunnel/arca-github-2023#readme",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^0.0.71"
   }
 }
