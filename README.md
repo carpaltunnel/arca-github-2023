@@ -1,2 +1,2 @@
 # arca-github-2023
-Example repository for learning.
+Example repository for learning
